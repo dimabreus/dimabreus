@@ -1,17 +1,9 @@
-### Привет 👋
-Я изучаю JavaScript и Python
-[Discord](https://discord.com/users/840559505308909599)
-<!--
-**dimabreus/dimabreus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="header" align="center">
+  <h1>Привет, я Дима</h1>
+  <h3>Начинающий разработчик из Москвы</h3>
+  <a href="https://discord.com/users/840559505308909599">Discord</a>
+  <a style="color:  black;" href="https://www.codewars.com/users/___dima___">Codewars</a>
+</div>
+### Обо мне
+- Я изучаю **JavaScript, Python**
+- dadasdsd
