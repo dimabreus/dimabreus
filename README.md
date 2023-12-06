@@ -1,6 +1,6 @@
 ### Привет 👋
 Я изучаю JavaScript и Python
-[Discord](https:/discord.com/users/840559505308909599)
+[Discord](https://discord.com/users/840559505308909599)
 <!--
 **dimabreus/dimabreus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
