@@ -9,23 +9,20 @@
 - Есть опыт в разрабоке Discord ботов на **Python** используя библиотеку **Disnake**
 
 <p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://github.com/AlexFromNorth/AlexFromNorth/blob/main/assets/github-snake.svg" alt="snake"/>
 </p>
 
 
 ### Контакты:
 <div align="space-between">
-    <a href="https://t.me/jacklex_x">
-    <img src="https://img.icons8.com/3d-fluency/94/null/telegram.png" style="width: 50px";>
-    </a>
-    <a href="https://vk.com/id93906739">
-    <img src="https://img.icons8.com/3d-fluency/94/null/vk-circled.png" style="width: 50px">
-    </a>   
+    <a style="color: white;"href="https://discord.com/users/840559505308909599>">
+      <img style="width: 50px" src="https://www.svgrepo.com/show/353655/discord-icon.svg">
+    </a>  
 </div>
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/jackle/badges/large)
+![codewars](https://www.codewars.com/users/___dima___/badges/large)
 
 ### 💻 Технологии:
 
@@ -36,12 +33,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="redux" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="redux" alt="gulp" width="40" height="40"/>&nbsp;
 </div>
-
-### 💻 Статистика:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexFromNorth&layout=compact)](https://github.com/AlexFromNorth/github-readme-stats)
