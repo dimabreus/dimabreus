@@ -35,3 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="redux" alt="tailwindcss" width="40" height="40"/>&nbsp;
 </div>
+
+### 💻 Статистика:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimabreus&layout=compact)](https://github.com/dimabreus/github-readme-stats)
