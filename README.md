@@ -39,3 +39,5 @@
 ### 💻 Статистика:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimabreus&layout=compact)](https://github.com/dimabreus/github-readme-stats)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dimabreus&theme=tokyonight&show_icons=true&hide=contribs,issues&custom_title=%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0:&rank_icon=github&locale=ru&border_color=0d1117)
