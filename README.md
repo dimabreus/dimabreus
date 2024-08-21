@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Дима
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">Junior Full-Stack разработчик </h3>
+<h3 align="center">Middle Front-End разработчик </h3>
 
 ### Обо мне:
 - Интересуюсь разработкой сайтов на **HTML** **CSS** **JS** и различных скриптов на **Python**
