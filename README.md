@@ -1,14 +1,17 @@
 <h1 align="center">Привет, я Дима
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">Middle Front-End разработчик </h3>
+<h3 align="center">Full-Stack разработчик </h3>
 
 ### Обо мне:
-- Интересуюсь разработкой Full-Stack приложений используя `React.TS`, `SASS` и `FastAPI`, `SQLAlchemy`.
+- Интересуюсь разработкой Full-Stack приложений используя `React.TS`, `SASS` и `FastAPI`, `SQLAlchemy`
+  - И ещё игр на Unity.
+- Сооснователь [OCAEEAM](https://ocaeeam.vercel.app/).
+- Ведущий разработчик в [Strong-Editor-Team](https://github.com/Strong-editor-team).
 - В данный момент работаю над:
   - Unity играми. Одна из них будет в Steam.
   - Повышением своего скилла на Back-End.
-- Есть опыт в разработке Discord ботов на **Python** и **nodeJS** используя библиотеки **Disnake** и **discord.js** соответсвенно
+- Есть опыт в разработке Discord ботов на **Python** и **nodeJS** используя библиотеки **Disnake** и **discord.js** соответсвенно.
 - Знаю ООП (`C#`, `Java`).
 - За Чистый Код!
 
