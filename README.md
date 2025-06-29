@@ -21,8 +21,8 @@
 
 
 ### Контакты:
-![Discord](https://img.shields.io/badge/Discord-dimabreus-555555?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2) <br/>
-![Telegram](https://img.shields.io/badge/Telegram-@Dima24608-555555?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)
+[![Discord](https://img.shields.io/badge/Discord-dimabreus-555555?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](#) <br/>
+[![Telegram](https://img.shields.io/badge/Telegram-@Dima24608-555555?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)](https://t.me/Dima24608)
 
 ### 💻 Codewars:
 
