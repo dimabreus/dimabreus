@@ -58,8 +58,8 @@
 
 ![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord.js&logoColor=FFFFFF)
 ![Discord.py](https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![BetterDiscord](https://img.shields.io/badge/BetterDiscord-3E82E5?style=for-the-badge&logo=BetterDiscord&logoColor=FFFFFF)
-![Vencord](https://img.shields.io/badge/Vencord-D3859B?style=for-the-badge&logo=Vencord&logoColor=FFFFFF)
+![BetterDiscord](https://img.shields.io/badge/BetterDiscord_plugins_dev-3E82E5?style=for-the-badge&logo=BetterDiscord&logoColor=FFFFFF)
+![Vencord](https://img.shields.io/badge/Vencord_plugins_dev-D3859B?style=for-the-badge&logo=Vencord&logoColor=FFFFFF)
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=FFFFFF)
