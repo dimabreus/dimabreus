@@ -14,11 +14,8 @@
 
 
 ### Контакты:
-<div align="space-between">
-    <a style="color: white;"href="https://discord.com/users/840559505308909599>">
-      <img style="width: 50px" src="https://www.svgrepo.com/show/353655/discord-icon.svg">
-    </a>  
-</div>
+![Discord](https://img.shields.io/badge/Discord-dimabreus-555555?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2) <br/>
+![Telegram](https://img.shields.io/badge/Telegram-@Dima24608-555555?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0)
 
 ### 💻 Codewars:
 
@@ -26,16 +23,40 @@
 
 ### 💻 Технологии:
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="redux" alt="tailwindcss" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/electron/electron-original.svg" title="electron" alt="electron" width="40" height="40"/>&nbsp;
-</div>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub+Actions&logoColor=FFFFFF)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub+Pages&logoColor=FFFFFF) <br/> 
+![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-FE5196?style=for-the-badge&logo=Conventional+Commits&logoColor=FFFFFF)
+![SemVer](https://img.shields.io/badge/SemVer-3F4551?style=for-the-badge&logo=SemVer&logoColor=FFFFFF)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=FFFFFF)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
+![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=Poetry&logoColor=FFFFFF)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=FFFFFF)
+![Aiohttp](https://img.shields.io/badge/AIOHTTP-2C5BB4?style=for-the-badge&logo=AIOHTTP&logoColor=FFFFFF)
+![SqlAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=SQLAlchemy&logoColor=FFFFFF)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
+
+![Discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord.js&logoColor=FFFFFF)
+![Discord.py](https://img.shields.io/badge/disnake-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![BetterDiscord](https://img.shields.io/badge/BetterDiscord-3E82E5?style=for-the-badge&logo=BetterDiscord&logoColor=FFFFFF)
+![Vencord](https://img.shields.io/badge/Vencord-D3859B?style=for-the-badge&logo=Vencord&logoColor=FFFFFF)
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=FFFFFF)
+![Unity](https://img.shields.io/badge/Unity-222222?style=for-the-badge&logo=Unity&logoColor=FFFFFF)
 
 ### 💻 Статистика:
 
