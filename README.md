@@ -3,6 +3,8 @@
 </h1>
 <h3 align="center">Full-Stack разработчик </h3>
 
+<p align="center"><a href="https://wakatime.com/@018d2282-cc02-4819-8d50-cb261b6d0fdc"><img src="https://wakatime.com/badge/user/018d2282-cc02-4819-8d50-cb261b6d0fdc.svg?style=flat-square" alt="Total time coded since Jan 19 2024" /></a></p>
+
 ### Обо мне:
 - Интересуюсь разработкой Full-Stack приложений используя `React.TS`, `SASS` и `FastAPI`, `SQLAlchemy`
   - И ещё игр на Unity.
